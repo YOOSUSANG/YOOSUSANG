@@ -10,7 +10,7 @@
 <hr>
 
 ### :computer: Project
-[AI 기반 의약품 식별 및 복용 관리 플랫폼 "PillMate"](https://github.com/YOOSUSANG/pillMate) (2023 4분기 프로젝트, 2024 2분기 유지보수)
+[AI 기반 의약품 식별 및 복용 관리 플랫폼 "PillMate"](https://github.com/YOOSUSANG/pillMate) (2023 4분기 프로젝트, 2024 3분기 유지보수)
 <br>
 <br>
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://example.com)
@@ -24,7 +24,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <br>
 <br>
-[증표 기반 일회성 모임관리 서비스 "Ssalon"](https://github.com/lee1684/SKYTeam/tree/back-end) (2024 1분기 프로젝트)
+[증표 기반 일회성 모임관리 서비스 "Ssalon"](https://github.com/lee1684/SKYTeam/tree/back-end) (2024 2분기 프로젝트)
 <br>
 <br>
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://example.com)
