@@ -10,6 +10,15 @@
 <hr>
 
 ### :computer: Project
+[Deep Seam Prediction for Image Stitching Based on Selection Consistency Loss](https://github.com/YOOSUSANG/Deep-Seam-Prediction) (2023 3~4분기 프로젝트)
+<br>
+<br>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
+<br>
+<br>
 [AI 기반 의약품 식별 및 복용 관리 플랫폼 "PillMate"](https://github.com/YOOSUSANG/pillMate) (2023 4분기 프로젝트, 2024 3분기 유지보수)
 <br>
 <br>
