@@ -10,7 +10,7 @@
 <hr>
 
 ### :computer: Project
-[Deep Seam Prediction for Image Stitching Based on Selection Consistency Loss](https://github.com/YOOSUSANG/Deep-Seam-Prediction) (2023 3~4분기 프로젝트)
+[Deep Seam Prediction for Image Stitching Based on Selection Consistency Loss](https://github.com/YOOSUSANG/Deep-Seam-Prediction) (2023 3~4분기 인턴 프로젝트)
 <br>
 <br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
 <br>
 <br>
-[AI 기반 의약품 식별 및 복용 관리 플랫폼 "PillMate"](https://github.com/YOOSUSANG/pillMate) (2023 4분기 프로젝트, 2024 3분기 유지보수)
+[AI 기반 의약품 식별 및 복용 관리 플랫폼 "PillMate"](https://github.com/YOOSUSANG/pillMate) (2023 4분기 팀 프로젝트, 2024 3분기 유지보수)
 <br>
 <br>
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://example.com)
@@ -33,7 +33,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <br>
 <br>
-[증표 기반 일회성 모임관리 서비스 "Ssalon"](https://github.com/lee1684/SKYTeam/tree/back-end) (2024 2분기 프로젝트)
+[증표 기반 일회성 모임관리 서비스 "Ssalon"](https://github.com/lee1684/SKYTeam/tree/back-end) (2024 2분기 팀 프로젝트)
 <br>
 <br>
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://example.com)
