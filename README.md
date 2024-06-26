@@ -33,7 +33,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <br>
 <br>
-[증표 기반 일회성 모임관리 서비스 "Ssalon"](https://github.com/lee1684/SKYTeam/tree/back-end) (2024 2분기 팀 프로젝트)
+[증표 기반 일회성 모임관리 서비스 "Ssalon"](https://github.com/lee1684/SKYTeam/tree/main) (2024 2분기 팀 프로젝트)
 <br>
 <br>
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://example.com)
