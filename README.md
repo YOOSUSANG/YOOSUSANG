@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
 <br>
 <br>
-[AI 기반 의약품 식별 및 복용 관리 플랫폼 "PillMate"](https://github.com/YOOSUSANG/pillMate) (2023 4분기 팀 프로젝트)
+[AI 기반 의약품 식별 및 복용 관리 플랫폼 "PillMate"](https://github.com/YOOSUSANG/pillMate) (2023 4분기 팀 프로젝트, 2024년 3분기 유지보수)
 <br>
 <br>
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://example.com)
